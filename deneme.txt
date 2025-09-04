@@ -1,7 +1,1 @@
-51.255.105.230,MTA Türkiye ❱❱ BULUT GAMİNG ❰❰ [Freeroam/Turk/Araba/Ankara/Map/Klan/Turf/Tag/Drop]
-51.91.91.67,MTA Türkiye ❱❱ BULUT GAMİNG ❰❰ [Freeroam/Turk/Araba/Ankara/Map/Klan/Turf/Tag/Drop]
-178.244.140.236,Default MTA Server
-144.76.57.59,Default MTA Server
-185.160.30.12,MTA Türkiye ❱❱ BULUT GAMİNG ❰❰ [Freeroam/Turk/Araba/Ankara/Map/Klan/Turf/Tag/Drop]
-45.150.149.152,MTA Türkiye ✖ GÜL GAMİNG FREEROAM ✖ [Roleplay/Askeri/Drift/Drop/Turkey/Tr/Gül Gaming]
-51.255.105.230,MTA Türkiye ✖ HUNTER GAMİNG FREEROAM ✖ [Roleplay/Askeri/Drift/Drop/Turkey/Tr/Hunter]
+51.255.105.230,MTATürkiye❱❱BULUTGAMİNG❰❰[Freeroam/Turk/Araba/Ankara/Map/Klan/Turf/Tag/Drop]
